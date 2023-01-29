@@ -206,7 +206,7 @@ DM:
 QR: ${QR}/36
 AR: ${AR}/50
 
-_Consider using \`/mocks\` to record your results!_`,
+_Consider using \`/mocks\` to record your results! Please note that this conversion is based off \`!conversion\` which means these results are not 100% indicative of the results you would receive in the actual UCAT examination. _`,
         ephemeral: true,
       });
     } else if (
